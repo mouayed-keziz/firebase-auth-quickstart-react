@@ -1,4 +1,4 @@
-# Getting Started with react and firebase, this is a quickstart template
+# Getting Started with react and firebase, this is a quickstart template for google and facebook authentication
 
 
   simple explanation of the code:
